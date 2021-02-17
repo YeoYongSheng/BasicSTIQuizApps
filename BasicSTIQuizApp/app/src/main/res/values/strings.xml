@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Basic STI Quiz App</string>
+    <string name="basic_sti_quizapp">Basic STI QuizApp</string>
+    <string name="welcome">Welcome</string>
+    <string name="the_main_policy_goal_for_the_new_science_technology_and_innovation_policy_sti_is">The main policy goal for The new Science, Technology and Innovation Policy (STI) is:</string>
+    <string name="_0_10">0/10</string>
+    <string name="questiona">questionA</string>
+</resources>
